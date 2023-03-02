@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "gender": "male"
+    },
+    {
+      "id": "123",
+      "name": "citt",
+      "password": "12345",
+      "email": "a@gmail.com",
+      "phone": "09876",
+      "country": "usa",
+      "address": "cccccccccccccc",
+      "gender": "male"
+    },
+    {
+      "id": "RnzCy1-"
+    },
+    {
+      "id": "1111111",
+      "name": "gggggggggggg",
+      "password": "122222",
+      "email": "citra@gmail.com",
+      "phone": "gggggggggggggggg",
+      "country": "usa",
+      "address": "ggggggggggggg",
+      "gender": "female"
+    },
+    {
+      "id": "4DxO14j"
+    },
+    {
+      "id": "MD6LA2V"
+    }
+  ]
+}
